@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="059a77c7-8e9f-42ca-99d4-c6f719e083be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,9 +37,15 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zara Martín\Downloads\primerEntrgable" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710323711243</updated>
-      <workItem from="1710323713443" duration="2712000" />
+      <workItem from="1710323713443" duration="5898000" />
     </task>
     <task id="LOCAL-00001" summary="header + nav">
       <created>1710325004507</created>
@@ -67,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710326439670</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="menu añadir div html">
+      <created>1710326515716</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710326515716</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +94,7 @@
     <MESSAGE value="header + nav" />
     <MESSAGE value="seccion1 html" />
     <MESSAGE value="seccion2 html" />
-    <option name="LAST_COMMIT_MESSAGE" value="seccion2 html" />
+    <MESSAGE value="menu añadir div html" />
+    <option name="LAST_COMMIT_MESSAGE" value="menu añadir div html" />
   </component>
 </project>
