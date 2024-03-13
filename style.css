@@ -1,3 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
 header h3{
     background-color: gray;
     text-align: center;
@@ -5,7 +10,7 @@ header h3{
     margin: 0px;
 }
 header h1{
-    background-color: #e19797;
+    background-color: #f1c2c2;
     text-align: center;
     font-size: 30px;
     padding: 15px;
@@ -14,6 +19,13 @@ header h1{
 
 main{
     display: flex;
+}
+
+nav{
+    display: flex;
+    width: 35%;
+    flex-direction: column;
+    border: 1px solid black;
 }
 
 .secciones{
@@ -65,4 +77,38 @@ main{
 }
 .seccion2 h2{
     text-align: center;
+}
+
+.navDivs{
+    display: flex;
+    flex-direction: column;
+}
+.navDivs li a{
+    text-decoration: none;
+    color: black;
+    list-style: none;
+}
+.navDivs li{
+    margin-bottom: 20px;
+}
+
+.div2 {
+    position: absolute;
+    bottom: 0;
+}
+.div1{
+    text-align: center;
+    border: 1px solid black;
+}
+.div2 li::before{
+    content: '•';
+    margin-right: 8px;
+    color: black;
+}
+
+.box1 img{
+    margin-bottom: 20px;
+}
+footer{
+    margin:50px;
 }
