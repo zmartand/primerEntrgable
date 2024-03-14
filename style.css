@@ -80,6 +80,10 @@ nav{
 .seccion2 h2{
     text-align: center;
 }
+.seccion2{
+    margin-bottom:50px;
+    border-bottom: 2px solid black;
+}
 
 .navDivs{
     display: flex;
@@ -111,9 +115,7 @@ nav{
 .box1 img{
     margin-bottom: 20px;
 }
-footer{
-    margin:50px;
-}
+
 button{
     border: 2px solid black;
     padding:20px;
