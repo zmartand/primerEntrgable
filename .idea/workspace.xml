@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="059a77c7-8e9f-42ca-99d4-c6f719e083be" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,7 @@
       <workItem from="1710409729866" duration="3948000" />
       <workItem from="1710533982992" duration="967000" />
       <workItem from="1710537911322" duration="508000" />
-      <workItem from="1710538576455" duration="1145000" />
+      <workItem from="1710538576455" duration="1495000" />
     </task>
     <task id="LOCAL-00001" summary="header + nav">
       <created>1710325004507</created>
@@ -133,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710413580507</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="movil">
+      <created>1710539744264</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710539744264</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +152,7 @@
     <MESSAGE value="menu añadir div html" />
     <MESSAGE value="estilos" />
     <MESSAGE value="cambios" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambios" />
+    <MESSAGE value="movil" />
+    <option name="LAST_COMMIT_MESSAGE" value="movil" />
   </component>
 </project>

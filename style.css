@@ -124,7 +124,7 @@ button {
 
 
 @media (max-width: 768px) {
-    .seccion2{
+    .seccion2, .div2{
         display: none;
     }
     main{
@@ -148,7 +148,6 @@ button {
         flex-direction: column;
         justify-content: center;
         border: 1px solid black;
-        text-align: center;
     }
     .articulos1 article{
         width: 100%;
@@ -156,6 +155,25 @@ button {
     .art1 img{
         width: 350px;
         height: 100px;
+    }
+    .art2{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .art2 p{
+        margin-right: 180px;
+    }
+    .art1{
+        text-align: center;
+    }
+    .art3{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+    }
+    .art3 p{
+        margin-left: 180px;
     }
 
 }
